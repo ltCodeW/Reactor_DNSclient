@@ -1,0 +1,2 @@
+# Reactor_DNSclient
+使用Reactor框架libevent写的DNS客户端
